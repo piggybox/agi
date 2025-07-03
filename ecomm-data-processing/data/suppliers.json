@@ -1,0 +1,5 @@
+[
+  {"id": 101, "name": "TechCorp", "contact": "tech@techcorp.com", "rating": 4.5},
+  {"id": 102, "name": "HomeGoods Inc", "contact": "sales@homegoods.com", "rating": 4.2},
+  {"id": 103, "name": "Office Solutions", "contact": "info@officesolutions.com", "rating": 3.8}
+]

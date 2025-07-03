@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "Laptop", "category": "Electronics", "price": 999.99, "supplier_id": 101},
+  {"id": 2, "name": "Coffee Mug", "category": "Kitchen", "price": 12.50, "supplier_id": 102},
+  {"id": 3, "name": "Headphones", "category": "Electronics", "price": 79.99, "supplier_id": 101},
+  {"id": 4, "name": "Desk Chair", "category": "Furniture", "price": 150.00, "supplier_id": 103}
+]
